@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "author": "j.k. rolling",
+    "book name": "Harry Potter",
+    "pages": "1000",
+    "published year": 2010
+  },
+  {
+    "id": 2,
+    "author": "author-2",
+    "book name": "book-2",
+    "pages": "1000",
+    "published year": 2013
+  },
+  {
+    "id": 3,
+    "author": "author-4",
+    "book name": "book-2",
+    "pages": "1000",
+    "published year": 2013
+  }
+]
